@@ -10,5 +10,7 @@
 
 4. ##### [原生JS实现双向链表](https://www.cnblogs.com/wangjiachen666/p/10149823.html)
 
+5. ##### [原生JS实现二叉搜索树（Binary Search Tree）](https://www.cnblogs.com/wangjiachen666/p/10155507.html)
+
 (未完待续。。。)
 
